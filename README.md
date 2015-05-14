@@ -7,6 +7,14 @@ This jQuery Mobile code is the companion for the following Tutorial:
 
 <a href="http://themvcclub.blogspot.com/2015/05/how-to-create-jquery-mobile-form.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
+ 
+ <img border="0" height="640" src="http://3.bp.blogspot.com/-T_bl14arGFk/VVRVn4Jl5bI/AAAAAAAAKrI/9DSJLr6F3Qk/s640/17.png" width="380" />  
+ 
+ <img border="0" height="640" src="http://4.bp.blogspot.com/-NORmgQbRIEU/VVRVo7Ah9xI/AAAAAAAAKrU/9NDOpEidoLY/s640/16.png" width="384" /> 
+
+
+
+
 <div class="separator" style="clear: both; text-align: center;">
  <img alt="create a jQuery Mobile Form        " border="0" height="514" src="http://1.bp.blogspot.com/-e2Cb8iEIrlQ/VVCPvSsDo_I/AAAAAAAAKnU/_vKjJIk8uSE/s540/1.png" width="540" /> </div>
 <div class="separator" style="clear: both; text-align: center;">
