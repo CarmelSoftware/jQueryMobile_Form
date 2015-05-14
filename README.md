@@ -18,7 +18,6 @@ This jQuery Mobile code is the companion for the following Tutorial:
 <div class="separator" style="clear: both; text-align: center;">
  <img alt="a jQuery Mobile Form        " border="0" height="508" src="http://3.bp.blogspot.com/-xWjdhc3_kXg/VVCPyVxutzI/AAAAAAAAKo8/g1roPvpiAlg/s540/2.png" width="540" /> </div>
 <div class="separator" style="clear: both; text-align: center;">
-
 </div>
  
 
